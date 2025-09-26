@@ -7,7 +7,7 @@ func main() {
 	var nama string = "Rizki"
 	var umur int = 21
 
-	// tidak mendefinisikan tipe data (otomatis)
+	// tidak mendefinisikan tipe data (otomatis terdeteksi)
 	kota := "Yogyakarta"
 	tahun := 2025
 
